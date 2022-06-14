@@ -1,3 +1,7 @@
+'----------- only work for 8v data------------'
+'--------------from gcpcv1--------------------'
+
+import numpy as np
 def load_ply_data(filename):
   '''
   load data from ply file.
